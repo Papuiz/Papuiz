@@ -33,6 +33,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Papuiz/Papuiz/output/snake.svg" alt="Snake animation" />
 
 ###
